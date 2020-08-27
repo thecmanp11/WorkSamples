@@ -1,0 +1,3 @@
+Please refer to @david-crespo's github repo below to pull the initial data
+https://gist.github.com/david-crespo/89baec40d680a17ebc2a4d622c5fc0cf
+*In line 66 of tagged_photos.py I needed to change "photos/data.json" to just "photos.json"
