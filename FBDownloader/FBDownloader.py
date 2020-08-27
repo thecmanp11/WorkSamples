@@ -37,4 +37,4 @@ def fbdownloader(source,dump):
 
         os.utime(dump+'\\'+filename, (modTime, modTime))
 
-fbdownloader(#Source , #Dump)
+fbdownloader('#C:\\Source\\insert-path-to\\photos.json' , #'C:\\insert-path-to\\Dump\\')
